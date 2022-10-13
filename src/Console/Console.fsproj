@@ -21,8 +21,8 @@
   </ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\src\Mealplanner.GrainInterfaces\Mealplanner.GrainInterfaces.fsproj" />
-	  <ProjectReference Include="..\src\MealPlanner.Grains\MealPlanner.Grains.fsproj" />
+	  <ProjectReference Include="..\Mealplanner.GrainInterfaces\Mealplanner.GrainInterfaces.fsproj" />
+	  <ProjectReference Include="..\MealPlanner.Grains\Mealplanner.Grains.fsproj" />
 	</ItemGroup>
 
 </Project>
